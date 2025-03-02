@@ -31,3 +31,4 @@ Berikut adalah fitur-fitur utama yang tersedia dalam aplikasi ini:
 *ada didalam masing masing folder berupa video
 
 ## Diagram
+![Diagram_TP2DPBO2025C1 drawio](https://github.com/user-attachments/assets/29086e89-cabe-4fac-b35c-d10352a73b9a)
